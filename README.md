@@ -1,4 +1,5 @@
 # chat-application
+A chat application written in Python
 
 ### Download dependencies
 ```
